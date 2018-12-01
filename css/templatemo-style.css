@@ -212,6 +212,7 @@ http://www.templatemo.com/tm-515-eatery
     border: none;
     margin-bottom: 0;
     padding: 25px 0;
+    /* color: #ffffff; */
   }
 
   .custom-navbar .navbar-brand {
@@ -763,7 +764,7 @@ http://www.templatemo.com/tm-515-eatery
 
   footer a,
   footer p {
-    color: #909090;
+    color: #000000;
   }
 
   footer strong {
