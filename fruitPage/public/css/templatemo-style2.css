@@ -115,7 +115,7 @@ http://www.templatemo.com/tm-515-eatery
 
   section {
     position: relative;
-    padding: 100px 0;
+    padding: 45px 0;
   }
 
   #team, 
@@ -126,7 +126,10 @@ http://www.templatemo.com/tm-515-eatery
 
   .about-image img,
   .team-thumb img {
-    width: 100%;
+    width: 80%;
+    position: relative;
+    left: 60%;
+    /* top: 720px; */
   }
   
   #google-map iframe {
@@ -226,7 +229,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .top-nav-collapse {
-    background: #ffffff;
+    background: #4CAF50;
   }
 
   .custom-navbar .navbar-nav.navbar-nav-first {
@@ -298,7 +301,7 @@ http://www.templatemo.com/tm-515-eatery
     border-color: transparent;
   }
 
-  @media(min-width: 768px) {
+  @media(min-width:768px) {
     .custom-navbar {
       border-bottom: 0;
       background: 0 0; 
@@ -309,6 +312,7 @@ http://www.templatemo.com/tm-515-eatery
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       padding: 12px 0;
+      background: #4CAF50;
     }
 
     .top-nav-collapse .navbar-brand {
@@ -880,7 +884,7 @@ http://www.templatemo.com/tm-515-eatery
 
   @media only screen and (max-width: 992px) {
     section {
-      padding: 60px 0;
+      padding: 30px 0;
     }
 
     .custom-navbar .section-btn {
